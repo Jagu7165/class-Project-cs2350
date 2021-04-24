@@ -1,2 +1,53 @@
 /* TODO */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#landing{
+    background-color:  rgb(35, 59, 59);
+}
+
+#about{
+    background-color:  rgb(35, 59, 59);
+}
+.jumbotron{
+    background: url("https://i.pinimg.com/originals/29/76/ab/2976ab74a3d1beb47d563dc79fe3d04f.jpg");
+    color: white;
+    font-size: 1.2em;
+}
+.navbar{
+    background-color: rgb(35, 59, 59);
+    color: white;
+
+}
+.left{
+    background-color:  rgb(174, 177, 180);
+    color: rgb(231, 237, 241);
+}
+.right{
+    background-color: rgb(174, 177, 180);
+}
+footer{
+    background-color: rgb(31, 47, 47);
+    color:rgb(231, 237, 241)
+}
+.next{
+    margin-left: 10px;
+}
+
+#landing img{
+        width: 100%;
+        margin: 7px;
+}
+.bq{
+    padding-top: 10px;
+    color: white;
+    font-size: 1.2em;
+}
+.lh1{
+    text-align: center;
+    color:rgb(174, 177, 180);
+    font-size: 1.01em;
+
+}
+.landing{
+    background-color:  rgb(35, 59, 59);
+}
